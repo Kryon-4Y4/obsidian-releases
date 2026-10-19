@@ -63887,5 +63887,12 @@
     "author": "hztoyr",
     "description": "Keep all daily notes in one file. Capture a line with a hotkey, pick recent or frequent tags, and jump to any day from a sidebar calendar. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hztoyr/unidaily"
+  },
+  {
+    "id": "study-desk",
+    "name": "音乐学习台",
+    "author": "Kryon",
+    "description": "音乐学习台：知识 Wiki、闪卡复习、练习打卡、记分仪表盘。基于 Obsidian 的个人音乐学习管理插件。",
+    "repo": "Kryon-4Y4/study-desk"
   }
 ]
