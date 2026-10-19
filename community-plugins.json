@@ -64125,5 +64125,12 @@
     "author": "banana",
     "description": "Read Markdown, original PDF pages and EPUB books with an AI companion, anchored highlights, margin notes and focus mode. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "treydong/banana-reader"
+  },
+  {
+    "id": "study-desk",
+    "name": "Music Study Desk",
+    "author": "Kryon",
+    "description": "Manage your music study in Obsidian with a knowledge wiki linked to your notes, FSRS flashcards, practice check-ins with video, and a scoring dashboard.",
+    "repo": "Kryon-4Y4/study-desk"
   }
 ]
